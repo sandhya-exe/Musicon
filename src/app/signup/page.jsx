@@ -37,7 +37,7 @@ const page = () => {
           userName: formData.userName,
           email: formData.email,
           password: formData.password,
-          imageUrl: `https://api.dicebear.com/6.x/thumbs/svg?seed=${formData.userName}`,
+          imageUrl: `https://api.dicebear.com/8.x/thumbs/svg`,
         }),
       });
       const data = await res.json();
