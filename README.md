@@ -10,7 +10,7 @@ This is a free music streaming web application built with Next.js and powered by
 * Auto add similar songs to queue.
 * Display song details such as title, artist, album, and album artwork.
 * Responsive and mobile-friendly design for a great user experience.
-* Minimalistic and intuitive user interface.
+* Minimalistic and intuitive user_interface.
 ***
 
 ___
